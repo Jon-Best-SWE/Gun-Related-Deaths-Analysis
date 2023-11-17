@@ -7,10 +7,8 @@ Created on Sun Jun 24 12:13:44 2023
 
 # Jon Best
 # 6/25/2023
-# CS379 - Machine Learning
-# Machine Learning Algorithm Evaluation 
 # The purpose of this Python code is to use the Logistic Regression algorithm 
-# to evaluate statistical information about gun related deathes in the US 2006-2020, 
+# to evaluate statistical information about gun-related deaths in the US from 2006-2020, 
 # and to predict the most likely race, sex, and intent based on the dataset information.
  
 #***************************************************************************************
